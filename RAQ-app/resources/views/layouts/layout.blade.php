@@ -39,7 +39,7 @@
     @include('inc.banner')
 
     <!--Content-->
-    <div class="">
+    <div class="container">
     
         @yield('content')
 

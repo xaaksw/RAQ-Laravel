@@ -17,3 +17,4 @@ this repo is to learn laravel through refactor simple app
 - To change DB setup in your app you can use ".ENV " file 
 - To creat migration : php artisan make:migration "migration-name" 
 - To creat controller with resources methods : php artisan make:controller "ControllerName in plural" --resource
+- show all list of routes on the app : php artisan route:list
