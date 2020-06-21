@@ -54,7 +54,7 @@
                                     <label for="category" class="control-label col-md-6">Category</label>
 
                                     <select class="form-control" name="category" id="category">
-                                        <option value="cat1">cat1</option>
+                                        <option value="">Selectt</option>
                                         <option value="cat2">cat2</option>
                                         <option value="cat3">cat3</option>
                                         <option value="cat4">cat4</option>
